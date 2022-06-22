@@ -1,1 +1,1 @@
-The goal of this project is to enable users to create cool games using different languages even to the very basic ones like BASIC, PASCAL etc, for those that are not so familiar, up to today's recent languages. Enjoy!
+The goal of this project is to enable users to create cool games using different languages even to the very basic ones like BASIC, PASCAL etc, for those that are not so familiar, up to today's recent languages like Python, C, Javascript. Enjoy!
